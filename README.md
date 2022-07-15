@@ -29,5 +29,5 @@ assert_eq!(
 `Cargo.toml`  
 ```
 [dependencies]
-multi_vec = { git = "https://github.com/sakikuroe/multi-vec-Rust" }
+multi-vec = { git = "https://github.com/sakikuroe/multi-vec-Rust" }
 ```
